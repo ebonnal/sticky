@@ -1,0 +1,12 @@
+legende temporaire natureQ 1 mode2 0 sigma random r 1e-06 RouL 2e-06 ext 0 Ts 10 T 350 Vini 0 popvolumique 0 coefperte [1, 0] masse 1.672622e-27 nbsimu 10 para T saveposvvQ [1, 0] lpm 0 sticklist [10] paravariant [0, 10, 760.0, 100, 2]
+TempsVie(s) ; Nb contacts ; SortieParTrou?
+1.4853850709331487e-10 0 1
+6.177294802001095e-09 19 1
+3.875942716004018e-09 11 1
+5.48845140083744e-10 0 1
+2.0104422403282236e-09 8 1
+8.271925338885548e-09 25 0
+3.226472418346836e-10 1 0
+5.632871492014749e-10 0 1
+4.407607863809379e-10 1 1
+8.396575999251501e-11 0 1
